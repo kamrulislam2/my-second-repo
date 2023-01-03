@@ -1,0 +1,14 @@
+div{
+    color: darkblue;
+    font-size: larger;
+    font-weight: 500; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #7fff00; margin: 50px;padding: 20px;
+    text-align: justify;
+    border-radius: 25px;
+
+}
+.h3-file{
+    text-align: center;
+    text-decoration:wavy line-through black ;
+    color: brown;
+}
